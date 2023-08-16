@@ -5,4 +5,5 @@ An e-commerce website for all the home decoration needs of the user.
 Make sure you have NodeJS and React installed and running.
 
 Install Dependencies for Backend
-`npm install`
+
+<$ npm install>
