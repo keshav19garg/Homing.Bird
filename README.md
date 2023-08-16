@@ -1,5 +1,5 @@
 # HomingBird
-Completely responsive e-commerce website for all the home decoration needs of the user.
+Completely responsive E-commerce website for all the home decoration needs of the user.
 
 https://ill-plum-viper-suit.cyclic.cloud/
 
@@ -59,4 +59,4 @@ Any kind of contributions are welcome.
 2. Clone the project to your own machine.
 3. Commit changes to the development branch.
 4. Push your work back up to your fork.
-5. Submit a Pull request so that I can review your changes
+5. Submit a Pull request so that I can review your changes.
