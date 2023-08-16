@@ -46,12 +46,12 @@ Visit http://localhost:3000
 * Add to Cart and Search Products feature.
 * Deployed the website using https://www.cyclic.sh/
 
-  ## Tech Stack
+## Tech Stack
 
  MERN Stack
 
 
-  ## Contributing
+## Contributing
 
 Any kind of contributions are welcome.
 
