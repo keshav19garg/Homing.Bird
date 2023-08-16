@@ -44,5 +44,6 @@ Visit http://localhost:3000
 * Designed and developed an Admin portal inside the website for Admins for the addition and updation of products, categories and to manage orders status.
 * User can filter products on the basis of category and prices.
 * Add to Cart and Search Products feature.
-* Deployed the website using [cyclic.sh]:https://www.cyclic.sh/
+* Deployed the website using [cyclic.sh][cyclic]
+  [cyclic]:https://www.cyclic.sh/
   
