@@ -1,7 +1,7 @@
 # HomingBird
 Completely responsive e-commerce website for all the home decoration needs of the user.
 
-## Usage
+## Installation
 Make sure you have NodeJS and React installed and running.
 
 ### Install Dependencies for the Backend
@@ -20,7 +20,9 @@ $ cd frontend
 $ npm install
 ```
 
-### Run server and React
+## Usage
+
+### Run server and React concurrently
 
 ```
 $ cd..
