@@ -48,7 +48,7 @@ Visit http://localhost:3000
 
   ## Tech Stack
 
-  #### MERN Stack
+ MERN Stack
 
 
   ## Contributing
