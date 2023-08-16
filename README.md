@@ -6,4 +6,14 @@ Make sure you have NodeJS and React installed and running.
 
 Install Dependencies for Backend
 
-<$ npm install>
+```
+$ npm install
+```
+
+Install Dependencies for Frontend
+
+Change directory to React folder in terminal= $ cd frontend
+
+```
+$ npm install
+```
